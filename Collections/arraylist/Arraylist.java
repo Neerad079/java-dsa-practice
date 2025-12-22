@@ -17,6 +17,7 @@ public class Arraylist {
 
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
+
         // Creating an ArrayList of an ArrayList
         // so that all the xth lines becomes individual list inside a list
         // from where we can access the number located at the yth position of the xth list
