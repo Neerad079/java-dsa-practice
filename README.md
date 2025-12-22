@@ -14,6 +14,7 @@ improve problem-solving skills, and build a strong base for technical interviews
   - ArrayList
   - LinkedList
   - Hashmaps
+  - HashSet
  
 
 ---
