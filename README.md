@@ -13,6 +13,7 @@ improve problem-solving skills, and build a strong base for technical interviews
 - Java Collections Framework
   - ArrayList
   - LinkedList
+  - Hashmaps
  
 
 ---
